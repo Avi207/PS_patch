@@ -1,0 +1,23 @@
+From f7595106872f51f0bf25a3e02711b506c80b93e3 Mon Sep 17 00:00:00 2001
+From: avi207 <avinashnit4@gmail.com>
+Date: Thu, 23 Jun 2022 06:42:30 +0530
+Subject: [PATCH 2/3] index.html edited v1.1
+
+---
+ index.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/index.html b/index.html
+index 0552c3e..9aae4ef 100644
+--- a/index.html
++++ b/index.html
+@@ -4,5 +4,6 @@
+ </head>
+ <body>
+ 	<h1>First Edit</h1>
++	<h2>Second Edit</h2>
+ </body>
+ </html>
+-- 
+2.36.1.windows.1
+
